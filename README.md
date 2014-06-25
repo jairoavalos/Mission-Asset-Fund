@@ -7,7 +7,7 @@ Project space for a goal setting app for those who want to get their finances un
 
 * Eddie
 * Tom
-* Jiaro
+* Jairo
 * Jose
 * Guy
 * Amit
